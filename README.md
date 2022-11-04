@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/quispewilmer/quispewilmer/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="center">Hi there! I'm Wilmer Quispe</h1>
