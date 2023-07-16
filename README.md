@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi there! I'm Wilmer Quispe</h1>
+<h1 align="center">Hi there! My name is Wilmer</h1>
 
 ###
 
